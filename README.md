@@ -35,12 +35,10 @@ The Prepmate is a full-stack, AI-driven web application designed to help users p
 
 
 ## Output
-
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 
 <img width="790" height="550" alt="image" src="https://github.com/user-attachments/assets/1a081751-4e22-4a41-a29e-f2f92aa3bb65" />
 
-#### Output2 - Name of the output
+#### Output2
 <img width="1857" height="890" alt="image" src="https://github.com/user-attachments/assets/39ae8355-2f10-4607-91b6-349877f6197e" />
 
 
